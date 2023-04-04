@@ -1,4 +1,4 @@
-package session;
+package session01;
 
 public class pra2 {
     public static void main(String[] args) {
